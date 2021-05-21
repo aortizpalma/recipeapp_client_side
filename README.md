@@ -18,6 +18,8 @@ NOTE FOR SCHOOL REVIEWERS: Please ping me on Teams and I'll grant you remote acc
 
 YOU CAN MAKE USE OF THE test_recipe_and_images.zip FILE IN THE REPO TO ADD NEW RECIPES.
 
+Quick video demo here: https://share.vidyard.com/watch/8MAtWFAUNE1wdYNBvmSCT1?
+
 For local testing.
 - Install Nodemon (https://www.npmjs.com/package/nodemon) and run it localhost port 5000
 - connect to a valid Mongo.db cluster
