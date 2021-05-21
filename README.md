@@ -14,6 +14,7 @@ Built with:
 
 ## Setup and usage
 
+NOTE FOR SCHOOL REVIEWERS: Please ping me on Teams and I'll grant you remote access for testing the service.
 - Install Nodemon (https://www.npmjs.com/package/nodemon) and run it localhost port 5000
 - connect to the Mongo.db cluster
 
