@@ -1,0 +1,18 @@
+.header-bar {
+  /* background-color: lightgray; */
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  margin: auto;
+}
+
+li {
+  list-style: none;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-end;
+  padding: 20px;
+}

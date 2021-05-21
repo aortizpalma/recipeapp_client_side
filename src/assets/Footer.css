@@ -1,0 +1,9 @@
+.footer-bar {
+  /* background-color: lightgray; */
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  width: 80%;
+}
