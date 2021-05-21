@@ -20,7 +20,11 @@ YOU CAN MAKE USE OF THE test_recipe_and_images.zip FILE IN THE REPO TO ADD NEW R
 
 Quick video demo here: https://share.vidyard.com/watch/8MAtWFAUNE1wdYNBvmSCT1?
 
-For local testing.
+For local testing:
+
+**NOTE: LOCAL TESTING MIGHT BE QUITE COMPLICATED DUE TO THE DEPENDENCIES AND THE PROCESS IS NOT YET DOCUMENTED.
+
+- As the backend is not live, you would need to install also the Server-side project an its dependencies: https://github.com/aortizpalma/recipeapp_server_side
 - Install Nodemon (https://www.npmjs.com/package/nodemon) and run it localhost port 5000
 - connect to a valid Mongo.db cluster
 
