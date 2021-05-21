@@ -21,6 +21,15 @@ NOTE FOR SCHOOL REVIEWERS: Please ping me on Teams and I'll grant you remote acc
 ## Screenshot
 
 ## Sources 
+Packages used:
+- Material UI core
+- Material UI icons
+- Axios
+- Moment
+- React file base64
+- React-redux
+- React router dom
+
 
 ## Authors and acknowledgment
 
